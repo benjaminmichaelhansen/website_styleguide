@@ -22,8 +22,10 @@ p {
 }
 .color_box {
     display: inline-block;
-    width: 200px;
-    height: 75px;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    padding: 5px 0px;
 }
 .blue {
     color: white;
