@@ -17,6 +17,10 @@ p {
     Font-size: 14px;
     Font-family: "Poppins";
 }
+.main_box {
+    border: 1px solid black;
+    padding: 10px 3px;
+}
 .color_box {
     display: inline-block;
     width: 200px;
@@ -34,4 +38,74 @@ p {
 }
 .beige {
     background-color: #efd9ca;
+}
+.font_box {
+    display: inline-block;
+    margin-top: 20px;
+}
+#scp_underline {
+    font-family: "Source Code Pro";
+    text-decoration: underline;
+    Font-size: 18px;
+    Font-weight: 400;
+}
+#scp_normal {
+    font-family: "Source Code Pro";
+    Font-size: 14px;
+    Font-weight: 400;
+}
+#scp_bold {
+    font-family: "Source Code Pro";
+    Font-size: 14px;
+    Font-weight: 700;
+}
+#scp_italics {
+    font-family: "Source Code Pro";
+    Font-size: 14px;
+    Font-weight: 400;
+    font-style: italic;
+}
+#ns_underline {
+    font-family: "Nunito Sans";
+    text-decoration: underline;
+    Font-size: 18px;
+    Font-weight: 400;
+}
+#ns_normal {
+    font-family: "Nunito Sans";
+    Font-size: 14px;
+    Font-weight: 400;
+}
+#ns_bold {
+    font-family: "Nunito Sans";
+    Font-size: 14px;
+    Font-weight: 700;
+}
+#ns_italics {
+    font-family: "Nunito Sans";
+    Font-size: 14px;
+    Font-weight: 400;
+    font-style: italic;
+}
+#p_underline {
+    font-family: "Poppins";
+    text-decoration: underline;
+    Font-size: 18px;
+    Font-weight: 400;
+}
+#p_normal {
+    font-family: "Poppins";
+    Font-size: 14px;
+    Font-weight: 400;
+}
+#p_bold {
+    font-family: "Poppins";
+    Font-size: 14px;
+    Font-weight: 700;
+}
+#p_italics {
+    font-family: "Poppins";
+    Font-size: 14px;
+    Font-weight: 400;
+    font-style: italic;
 }
