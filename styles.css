@@ -2,3 +2,18 @@ main {
     text-align: center;
     width: 80%;
 }
+h1 {
+    Font-weight: 700;
+    Font-size: 26px;
+    Font-family: "Nunito Sans";
+}
+h2 {
+    Font-weight: 500;
+    Font-size: 18px;
+    font-family: "Poppins";
+}
+p {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: "Poppins";
+}
