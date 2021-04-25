@@ -1,4 +1,4 @@
-main {
+body {
     text-align: center;
     width: 80%;
 }
@@ -16,4 +16,22 @@ p {
     Font-weight: 400;
     Font-size: 14px;
     Font-family: "Poppins";
+}
+.color_box {
+    display: inline-block;
+    width: 200px;
+    height: 75px;
+}
+.blue {
+    color: white;
+    background-color: #2d5dcc;
+}
+.pink {
+    background-color: #d957d9;
+}
+.mint_green {
+    background-color: #4fe0b0;
+}
+.beige {
+    background-color: #efd9ca;
 }
