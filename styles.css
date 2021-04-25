@@ -1,5 +1,6 @@
 body {
     width: 90%;
+    margin: 0 auto;
 }
 h1 {
     Font-weight: 700;
@@ -11,21 +12,23 @@ h2 {
     Font-size: 18px;
     font-family: "Poppins";
 }
-p {
+p, li {
     Font-weight: 400;
     Font-size: 14px;
     Font-family: "Poppins";
 }
 .main_box {
-    border: 1px solid black;
-    padding: 10px 3px;
+    border: 1px solid grey;
+    padding: 15px 10px;
+    margin: 10px 0px;
 }
 .color_box {
     display: inline-block;
-    width: 400px;
-    height: 100px;
+    width: 24%;
+    height: 90px;
     text-align: center;
     padding: 5px 0px;
+    margin-top: 5px;
 }
 .blue {
     color: white;
@@ -42,7 +45,7 @@ p {
 }
 .font_box {
     display: inline-block;
-    margin-top: 20px;
+    margin-right: 50px;
 }
 #scp_underline {
     font-family: "Source Code Pro";
